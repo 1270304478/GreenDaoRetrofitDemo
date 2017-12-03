@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="check_select">#338FFF</color>
+    <color name="check_no">#00fff0</color>
+</resources>
